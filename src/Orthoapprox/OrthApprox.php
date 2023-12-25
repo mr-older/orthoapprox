@@ -9,6 +9,8 @@
 *	valueByX returns approximated (by ortogonal polynomials) value
 *
 */
+namespace OrthoApprox;
+
 class OrthApprox
 {
 	private $x;
