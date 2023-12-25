@@ -1,9 +1,9 @@
 {
-	"name": "mr-older/ortho_approx",
+	"name": "mr-older/orthoapprox",
     "type": "library",
 	"license": "MIT",
 	"description": "Orthogonal regression polynomial approximation",
-    "homepage": "https://github.com/mr-older/ortho_approx",
+    "homepage": "https://github.com/mr-older/orthoapprox",
 	"keywords": [
 		"github",
 		"version",
