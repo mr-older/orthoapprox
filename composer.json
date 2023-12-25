@@ -5,14 +5,13 @@
 	"description": "Orthogonal regression polynomial approximation",
     "homepage": "https://github.com/mr-older/orthoapprox",
 	"keywords": [
-		"github",
-		"version",
-		"release",
+		"polynomial-regression",
+		"orthogonal-polynomials",
+		"approximation-algorithm",
+		"polynomial-approximation",
 		"php"
 	],
-    "require": {
-		"php": "^7.0 || ^8.0"
-	},
+    "require": { "php": "^7.0 || ^8.0" },
 	"autoload": {
 		"psr-4": {
 			"Orthoapprox\\": "src/Orthoapprox"

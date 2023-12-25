@@ -9,7 +9,7 @@
 *	valueByX returns approximated (by ortogonal polynomials) value
 *
 */
-class OrthoApprox
+class OrthApprox
 {
 	private $x;
 	private $y;
